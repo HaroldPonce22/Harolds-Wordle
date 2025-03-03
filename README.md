@@ -1,10 +1,9 @@
-# Project 1 - *Name of App Here*
+# Project 1 - *Harolds Wordle*
 
-Submitted by: **Your Name Here**
+Submitted by: **Harold Ponce Saldivar**
 
-**Name of your app** is an app that ... [TODO] 
-
-Time spent: **X** hours spent in total
+**Harolds Worlds** is a fun and interactive word-guessing game inspired by the popular game Wordle. The app challenges players to guess a hidden 5-letter word within a limited number of attempts. With each guess, the app provides feedback on whether the letters are correct, incorrect, or in the wrong position, helping players narrow down the possibilities. The app features a fully functional on-screen keyboard, a clean and intuitive user interface, and a new goal word for each game to keep the experience fresh and engaging.
+Time spent: **8** hours spent in total
 
 ## Required Features
 
@@ -31,21 +30,20 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+I faced challenges working on this project with Swift closures and the switch style statement.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Harold Ponce Saldivar
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
 
-        http://www.apache.org/licenses/LICENSE-2.0
+    http://www.apache.org/licenses/LICENSE-2.0
 
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
